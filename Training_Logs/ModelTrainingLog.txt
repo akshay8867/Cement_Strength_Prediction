@@ -1,0 +1,177 @@
+2020-11-29/17:37:21		Start of Training
+2020-11-29/17:37:21		Entered the get_data method of the Data_Getter class
+2020-11-29/17:37:21		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/17:37:21		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/17:37:21		Unsuccessful End of Training
+2020-11-29/17:40:34		Start of Training
+2020-11-29/17:40:34		Entered the get_data method of the Data_Getter class
+2020-11-29/17:40:34		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/17:40:34		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/17:40:34		Unsuccessful End of Training
+2020-11-29/18:08:37		Start of Training
+2020-11-29/18:08:37		Entered the get_data method of the Data_Getter class
+2020-11-29/18:08:37		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/18:08:37		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:08:37		Unsuccessful End of Training
+2020-11-29/18:13:09		Start of Training
+2020-11-29/18:13:09		Entered the get_data method of the Data_Getter class
+2020-11-29/18:13:09		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/18:13:09		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:13:09		Unsuccessful End of Training
+2020-11-29/18:15:23		Start of Training
+2020-11-29/18:15:23		Entered the get_data method of the Data_Getter class
+2020-11-29/18:15:23		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/18:15:23		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:15:23		Unsuccessful End of Training
+2020-11-29/18:20:17		Start of Training
+2020-11-29/18:20:17		Entered the get_data method of the Data_Getter class
+2020-11-29/18:20:17		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/18:20:17		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:20:17		Unsuccessful End of Training
+2020-11-29/18:22:04		Start of Training
+2020-11-29/18:22:04		Entered the get_data method of the Data_Getter class
+2020-11-29/18:22:04		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'Training_FileFromDB/InputFile.csv' does not exist: b'Training_FileFromDB/InputFile.csv'
+2020-11-29/18:22:04		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:22:04		Unsuccessful End of Training
+2020-11-29/18:34:41		Start of Training
+2020-11-29/18:34:41		Entered the get_data method of the Data_Getter class
+2020-11-29/18:34:41		Exception occured in get_data method of the Data_Getter class. Exception message: 'Data_getter' object has no attribute 'logger'
+2020-11-29/18:34:41		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:34:41		Unsuccessful End of Training
+2020-11-29/18:41:11		Start of Training
+2020-11-29/18:41:11		Entered the get_data method of the Data_Getter class
+2020-11-29/18:41:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:41:11		Unsuccessful End of Training
+2020-11-29/18:49:13		Start of Training
+2020-11-29/18:49:13		Entered the get_data method of the Data_Getter class
+2020-11-29/18:49:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:49:13		Unsuccessful End of Training
+2020-11-29/18:50:33		Start of Training
+2020-11-29/18:50:33		Entered the get_data method of the Data_Getter class
+2020-11-29/18:50:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:50:33		Unsuccessful End of Training
+2020-11-29/18:51:55		Start of Training
+2020-11-29/18:51:55		Entered the get_data method of the Data_Getter class
+2020-11-29/18:51:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:51:55		Unsuccessful End of Training
+2020-11-29/18:53:13		Start of Training
+2020-11-29/18:53:13		Entered the get_data method of the Data_Getter class
+2020-11-29/18:53:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:53:13		Entered the is_null_present method of the Preprocessor class
+2020-11-29/18:53:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/18:53:13		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/18:53:13		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/18:53:13		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/18:53:13		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  'list' object cannot be interpreted as an integer
+2020-11-29/18:53:13		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/18:53:13		Unsuccessful End of Training
+2020-11-29/18:55:36		Start of Training
+2020-11-29/18:55:36		Entered the get_data method of the Data_Getter class
+2020-11-29/18:55:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:55:36		Entered the is_null_present method of the Preprocessor class
+2020-11-29/18:55:36		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/18:55:36		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/18:55:36		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/18:55:36		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/18:55:37		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/K-Means_Elbow.PNG'
+2020-11-29/18:55:37		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/18:55:37		Unsuccessful End of Training
+2020-11-29/18:57:16		Start of Training
+2020-11-29/18:57:16		Entered the get_data method of the Data_Getter class
+2020-11-29/18:57:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:57:16		Entered the is_null_present method of the Preprocessor class
+2020-11-29/18:57:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/18:57:16		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/18:57:16		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/18:57:16		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/18:57:16		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/18:57:16		Entered the create_clusters method of the KMeansClustering class
+2020-11-29/18:57:16		Exception occured in create_clusters method of the KMeansClustering class. Exception message:  the init parameter for the k-means should be 'k-means++' or 'random' or an ndarray, 'kmeans++' (type '<class 'str'>') was passed.
+2020-11-29/18:57:16		Fitting the data to clusters failed. Exited the create_clusters method of the KMeansClustering class
+2020-11-29/18:57:16		Unsuccessful End of Training
+2020-11-29/18:58:25		Start of Training
+2020-11-29/18:58:25		Entered the get_data method of the Data_Getter class
+2020-11-29/18:58:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/18:58:25		Entered the is_null_present method of the Preprocessor class
+2020-11-29/18:58:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/18:58:25		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/18:58:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/18:58:25		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/18:58:25		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/18:58:25		Entered the create_clusters method of the KMeansClustering class
+2020-11-29/18:58:25		Entered the save_model method of the File_Operation class
+2020-11-29/18:58:25		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-11-29/18:58:25		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-11-29/18:58:25		Unsuccessful End of Training
+2020-11-29/19:02:16		Start of Training
+2020-11-29/19:02:16		Entered the get_data method of the Data_Getter class
+2020-11-29/19:02:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/19:02:16		Entered the is_null_present method of the Preprocessor class
+2020-11-29/19:02:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/19:02:16		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/19:02:16		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/19:02:16		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/19:02:17		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/19:02:17		Entered the create_clusters method of the KMeansClustering class
+2020-11-29/19:02:17		Entered the save_model method of the File_Operation class
+2020-11-29/19:02:17		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:02:17		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-11-29/19:02:17		Unsuccessful End of Training
+2020-11-29/19:09:07		Start of Training
+2020-11-29/19:09:07		Entered the get_data method of the Data_Getter class
+2020-11-29/19:09:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/19:09:07		Entered the is_null_present method of the Preprocessor class
+2020-11-29/19:09:07		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/19:09:07		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/19:09:07		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/19:09:07		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/19:09:07		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/19:09:07		Entered the create_clusters method of the KMeansClustering class
+2020-11-29/19:09:07		Entered the save_model method of the File_Operation class
+2020-11-29/19:09:07		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:09:07		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-11-29/19:09:07		Unsuccessful End of Training
+2020-11-29/19:10:50		Start of Training
+2020-11-29/19:10:50		Entered the get_data method of the Data_Getter class
+2020-11-29/19:10:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-29/19:10:50		Entered the is_null_present method of the Preprocessor class
+2020-11-29/19:10:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-29/19:10:50		Entered the separate_label_feature method of the Preprocessor class
+2020-11-29/19:10:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-11-29/19:10:50		Entered the elbow_plot method of the KMeansClustering class
+2020-11-29/19:10:50		The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2020-11-29/19:10:50		Entered the create_clusters method of the KMeansClustering class
+2020-11-29/19:10:50		Entered the save_model method of the File_Operation class
+2020-11-29/19:10:50		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:10:50		succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2020-11-29/19:10:50		Entered the get_best_model method of the Model_Finder class
+2020-11-29/19:10:50		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:10:50		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:10:50		Entered the RandomForestReg method of the Model_Finder class
+2020-11-29/19:10:56		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-11-29/19:10:56		Entered the save_model method of the File_Operation class
+2020-11-29/19:10:56		Model File LinearRegression2 saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:10:56		Entered the get_best_model method of the Model_Finder class
+2020-11-29/19:10:56		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:10:56		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:10:56		Entered the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:02		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:02		Entered the save_model method of the File_Operation class
+2020-11-29/19:11:02		Model File LinearRegression1 saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:11:02		Entered the get_best_model method of the Model_Finder class
+2020-11-29/19:11:02		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:11:03		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:11:03		Entered the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:11		RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 20}. Exited the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:11		Entered the save_model method of the File_Operation class
+2020-11-29/19:11:11		Model File RandomForestRegressor3 saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:11:11		Entered the get_best_model method of the Model_Finder class
+2020-11-29/19:11:11		Entered the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:11:11		LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}. Exited the get_best_params_for_linearReg method of the Model_Finder class
+2020-11-29/19:11:11		Entered the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:17		RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}. Exited the RandomForestReg method of the Model_Finder class
+2020-11-29/19:11:17		Entered the save_model method of the File_Operation class
+2020-11-29/19:11:17		Model File LinearRegression0 saved. Exited the save_model method of the Model_Finder class
+2020-11-29/19:11:17		Successful End of Training
+2020-11-29/19:16:02		Start of Training
+2020-11-29/19:16:02		Unsuccessful End of Training
