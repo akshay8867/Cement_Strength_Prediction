@@ -54,6 +54,7 @@ class trainModel:
                 save_model=file_op.save_model(best_model,best_model_name + str(i))
             self.log_writer.log(self.file_object, 'Successful End of Training')
             self.file_object.close()
+            return 'Successful End of Training'
         except Exception as e:
             self.log_writer.log(self.file_object,'Unsuccessful End of Training')
             self.file_object.close()

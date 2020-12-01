@@ -19,3 +19,60 @@
 2020-11-29/22:36:18		Column Length Validation Started!!
 2020-11-29/22:36:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
 2020-11-29/22:36:18		Column Length Validation Completed!!
+2020-11-30/15:22:13		Column Length Validation Started!!
+2020-11-30/15:22:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/15:22:13		Column Length Validation Completed!!
+2020-11-30/15:22:34		Column Length Validation Started!!
+2020-11-30/15:22:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/15:22:34		Column Length Validation Completed!!
+2020-11-30/15:24:13		Column Length Validation Started!!
+2020-11-30/15:24:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/15:24:13		Column Length Validation Completed!!
+2020-11-30/15:25:47		Column Length Validation Started!!
+2020-11-30/15:25:47		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/15:25:47		Column Length Validation Completed!!
+2020-11-30/18:41:24		Column Length Validation Started!!
+2020-11-30/18:41:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:41:24		Column Length Validation Completed!!
+2020-11-30/18:45:33		Column Length Validation Started!!
+2020-11-30/18:45:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:45:33		Column Length Validation Completed!!
+2020-11-30/18:47:33		Column Length Validation Started!!
+2020-11-30/18:47:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:47:33		Column Length Validation Completed!!
+2020-11-30/18:50:42		Column Length Validation Started!!
+2020-11-30/18:50:42		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:50:42		Column Length Validation Completed!!
+2020-11-30/18:51:23		Column Length Validation Started!!
+2020-11-30/18:51:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:51:23		Column Length Validation Completed!!
+2020-11-30/18:53:14		Column Length Validation Started!!
+2020-11-30/18:53:14		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:53:14		Column Length Validation Completed!!
+2020-11-30/18:53:48		Column Length Validation Started!!
+2020-11-30/18:53:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:53:48		Column Length Validation Completed!!
+2020-11-30/18:54:12		Column Length Validation Started!!
+2020-11-30/18:54:12		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/18:54:12		Column Length Validation Completed!!
+2020-11-30/19:05:54		Column Length Validation Started!!
+2020-11-30/19:05:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:05:54		Column Length Validation Completed!!
+2020-11-30/19:07:24		Column Length Validation Started!!
+2020-11-30/19:07:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:07:24		Column Length Validation Completed!!
+2020-11-30/19:07:43		Column Length Validation Started!!
+2020-11-30/19:07:43		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:07:43		Column Length Validation Completed!!
+2020-11-30/19:10:27		Column Length Validation Started!!
+2020-11-30/19:10:27		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:10:27		Column Length Validation Completed!!
+2020-11-30/19:11:20		Column Length Validation Started!!
+2020-11-30/19:11:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:11:20		Column Length Validation Completed!!
+2020-11-30/19:17:18		Column Length Validation Started!!
+2020-11-30/19:17:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:17:18		Column Length Validation Completed!!
+2020-11-30/19:18:02		Column Length Validation Started!!
+2020-11-30/19:18:02		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120000.csv
+2020-11-30/19:18:02		Column Length Validation Completed!!

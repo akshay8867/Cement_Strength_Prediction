@@ -103,3 +103,437 @@
 2020-11-29/22:36:21		Entered the load_model method of the File_Operation class
 2020-11-29/22:36:21		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
 2020-11-29/22:36:21		End of Prediction
+2020-11-30/15:22:13		Start of Validation on files for prediction!!
+2020-11-30/15:22:13		Raw Data Validation Complete!!
+2020-11-30/15:22:13		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/15:22:13		Table creation Completed!!
+2020-11-30/15:22:13		Insertion of Data into Table started!!!!
+2020-11-30/15:22:13		Insertion in Table completed!!!
+2020-11-30/15:22:13		Deleting Good Data Folder!!!
+2020-11-30/15:22:13		Good_Data folder deleted!!!
+2020-11-30/15:22:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/15:22:13		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/15:22:13		Validation Operation completed!!
+2020-11-30/15:22:13		Extracting csv file from table
+2020-11-30/15:22:15		Error occured while running the prediction!! Error:: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Output_File/Predictions.csv'
+2020-11-30/15:22:34		Start of Validation on files for prediction!!
+2020-11-30/15:22:34		Raw Data Validation Complete!!
+2020-11-30/15:22:34		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/15:22:34		Table creation Completed!!
+2020-11-30/15:22:34		Insertion of Data into Table started!!!!
+2020-11-30/15:22:34		Insertion in Table completed!!!
+2020-11-30/15:22:34		Deleting Good Data Folder!!!
+2020-11-30/15:22:34		Good_Data folder deleted!!!
+2020-11-30/15:22:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/15:22:34		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/15:22:34		Validation Operation completed!!
+2020-11-30/15:22:34		Extracting csv file from table
+2020-11-30/15:22:34		Start of Prediction
+2020-11-30/15:22:34		Entered the get_data method of the Data_Getter class
+2020-11-30/15:22:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/15:22:34		Entered the is_null_present method of the Preprocessor class
+2020-11-30/15:22:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/15:22:34		Entered the load_model method of the File_Operation class
+2020-11-30/15:22:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:22:34		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/15:22:34		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/15:22:34		Entered the load_model method of the File_Operation class
+2020-11-30/15:22:34		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:22:34		End of Prediction
+2020-11-30/15:24:13		Start of Validation on files for prediction!!
+2020-11-30/15:24:13		Raw Data Validation Complete!!
+2020-11-30/15:24:13		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/15:24:13		Table creation Completed!!
+2020-11-30/15:24:13		Insertion of Data into Table started!!!!
+2020-11-30/15:24:13		Insertion in Table completed!!!
+2020-11-30/15:24:13		Deleting Good Data Folder!!!
+2020-11-30/15:24:13		Good_Data folder deleted!!!
+2020-11-30/15:24:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/15:24:13		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/15:24:13		Validation Operation completed!!
+2020-11-30/15:24:13		Extracting csv file from table
+2020-11-30/15:24:13		Start of Prediction
+2020-11-30/15:24:13		Entered the get_data method of the Data_Getter class
+2020-11-30/15:24:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/15:24:13		Entered the is_null_present method of the Preprocessor class
+2020-11-30/15:24:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/15:24:13		Entered the load_model method of the File_Operation class
+2020-11-30/15:24:13		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:24:13		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/15:24:13		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/15:24:13		Entered the load_model method of the File_Operation class
+2020-11-30/15:24:13		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:24:14		End of Prediction
+2020-11-30/15:25:47		Start of Validation on files for prediction!!
+2020-11-30/15:25:47		Raw Data Validation Complete!!
+2020-11-30/15:25:47		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/15:25:47		Table creation Completed!!
+2020-11-30/15:25:47		Insertion of Data into Table started!!!!
+2020-11-30/15:25:49		Insertion in Table completed!!!
+2020-11-30/15:25:49		Deleting Good Data Folder!!!
+2020-11-30/15:25:49		Good_Data folder deleted!!!
+2020-11-30/15:25:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/15:25:49		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/15:25:49		Validation Operation completed!!
+2020-11-30/15:25:49		Extracting csv file from table
+2020-11-30/15:25:50		Start of Prediction
+2020-11-30/15:25:50		Entered the get_data method of the Data_Getter class
+2020-11-30/15:25:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/15:25:50		Entered the is_null_present method of the Preprocessor class
+2020-11-30/15:25:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/15:25:50		Entered the load_model method of the File_Operation class
+2020-11-30/15:25:50		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:25:50		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/15:25:50		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/15:25:50		Entered the load_model method of the File_Operation class
+2020-11-30/15:25:50		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/15:25:50		End of Prediction
+2020-11-30/18:41:24		Start of Validation on files for prediction!!
+2020-11-30/18:41:24		Raw Data Validation Complete!!
+2020-11-30/18:41:24		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:41:24		Table creation Completed!!
+2020-11-30/18:41:24		Insertion of Data into Table started!!!!
+2020-11-30/18:41:25		Insertion in Table completed!!!
+2020-11-30/18:41:25		Deleting Good Data Folder!!!
+2020-11-30/18:41:25		Good_Data folder deleted!!!
+2020-11-30/18:41:25		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:41:25		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:41:25		Validation Operation completed!!
+2020-11-30/18:41:25		Extracting csv file from table
+2020-11-30/18:45:33		Start of Validation on files for prediction!!
+2020-11-30/18:45:33		Raw Data Validation Complete!!
+2020-11-30/18:45:33		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:45:33		Table creation Completed!!
+2020-11-30/18:45:33		Insertion of Data into Table started!!!!
+2020-11-30/18:45:34		Insertion in Table completed!!!
+2020-11-30/18:45:34		Deleting Good Data Folder!!!
+2020-11-30/18:45:34		Good_Data folder deleted!!!
+2020-11-30/18:45:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:45:34		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:45:34		Validation Operation completed!!
+2020-11-30/18:45:34		Extracting csv file from table
+2020-11-30/18:45:34		Start of Prediction
+2020-11-30/18:45:34		Entered the get_data method of the Data_Getter class
+2020-11-30/18:45:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:45:34		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:45:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:45:34		Entered the load_model method of the File_Operation class
+2020-11-30/18:45:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:45:34		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:45:34		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:45:34		Entered the load_model method of the File_Operation class
+2020-11-30/18:45:34		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:45:34		End of Prediction
+2020-11-30/18:47:33		Start of Validation on files for prediction!!
+2020-11-30/18:47:33		Raw Data Validation Complete!!
+2020-11-30/18:47:33		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:47:33		Table creation Completed!!
+2020-11-30/18:47:33		Insertion of Data into Table started!!!!
+2020-11-30/18:47:34		Insertion in Table completed!!!
+2020-11-30/18:47:34		Deleting Good Data Folder!!!
+2020-11-30/18:47:34		Good_Data folder deleted!!!
+2020-11-30/18:47:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:47:34		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:47:34		Validation Operation completed!!
+2020-11-30/18:47:34		Extracting csv file from table
+2020-11-30/18:47:34		Start of Prediction
+2020-11-30/18:47:34		Entered the get_data method of the Data_Getter class
+2020-11-30/18:47:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:47:34		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:47:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:47:34		Entered the load_model method of the File_Operation class
+2020-11-30/18:47:34		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:47:34		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:47:34		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:47:34		Entered the load_model method of the File_Operation class
+2020-11-30/18:47:34		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:47:34		End of Prediction
+2020-11-30/18:50:31		Start of Validation on files for prediction!!
+2020-11-30/18:50:42		Start of Validation on files for prediction!!
+2020-11-30/18:50:42		Raw Data Validation Complete!!
+2020-11-30/18:50:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:50:42		Table creation Completed!!
+2020-11-30/18:50:42		Insertion of Data into Table started!!!!
+2020-11-30/18:50:43		Insertion in Table completed!!!
+2020-11-30/18:50:43		Deleting Good Data Folder!!!
+2020-11-30/18:50:43		Good_Data folder deleted!!!
+2020-11-30/18:50:43		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:50:43		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:50:43		Validation Operation completed!!
+2020-11-30/18:50:43		Extracting csv file from table
+2020-11-30/18:50:43		Start of Prediction
+2020-11-30/18:50:43		Entered the get_data method of the Data_Getter class
+2020-11-30/18:50:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:50:43		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:50:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:50:43		Entered the load_model method of the File_Operation class
+2020-11-30/18:50:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:50:43		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:50:43		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:50:43		Entered the load_model method of the File_Operation class
+2020-11-30/18:50:43		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:50:43		End of Prediction
+2020-11-30/18:51:23		Start of Validation on files for prediction!!
+2020-11-30/18:51:23		Raw Data Validation Complete!!
+2020-11-30/18:51:23		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:51:23		Table creation Completed!!
+2020-11-30/18:51:23		Insertion of Data into Table started!!!!
+2020-11-30/18:51:23		Insertion in Table completed!!!
+2020-11-30/18:51:23		Deleting Good Data Folder!!!
+2020-11-30/18:51:23		Good_Data folder deleted!!!
+2020-11-30/18:51:23		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:51:23		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:51:23		Validation Operation completed!!
+2020-11-30/18:51:23		Extracting csv file from table
+2020-11-30/18:51:23		Start of Prediction
+2020-11-30/18:51:23		Entered the get_data method of the Data_Getter class
+2020-11-30/18:51:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:51:23		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:51:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:51:23		Entered the load_model method of the File_Operation class
+2020-11-30/18:51:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:51:23		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:51:23		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:51:23		Entered the load_model method of the File_Operation class
+2020-11-30/18:51:23		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:51:23		End of Prediction
+2020-11-30/18:53:14		Start of Validation on files for prediction!!
+2020-11-30/18:53:14		Raw Data Validation Complete!!
+2020-11-30/18:53:14		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:53:14		Table creation Completed!!
+2020-11-30/18:53:14		Insertion of Data into Table started!!!!
+2020-11-30/18:53:14		Insertion in Table completed!!!
+2020-11-30/18:53:14		Deleting Good Data Folder!!!
+2020-11-30/18:53:14		Good_Data folder deleted!!!
+2020-11-30/18:53:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:53:14		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:53:14		Validation Operation completed!!
+2020-11-30/18:53:14		Extracting csv file from table
+2020-11-30/18:53:14		Start of Prediction
+2020-11-30/18:53:14		Entered the get_data method of the Data_Getter class
+2020-11-30/18:53:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:53:14		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:53:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:53:14		Entered the load_model method of the File_Operation class
+2020-11-30/18:53:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:53:14		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:53:14		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:53:14		Entered the load_model method of the File_Operation class
+2020-11-30/18:53:14		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:53:14		End of Prediction
+2020-11-30/18:53:48		Start of Validation on files for prediction!!
+2020-11-30/18:53:48		Raw Data Validation Complete!!
+2020-11-30/18:53:48		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:53:48		Table creation Completed!!
+2020-11-30/18:53:48		Insertion of Data into Table started!!!!
+2020-11-30/18:53:49		Insertion in Table completed!!!
+2020-11-30/18:53:49		Deleting Good Data Folder!!!
+2020-11-30/18:53:49		Good_Data folder deleted!!!
+2020-11-30/18:53:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:53:49		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:53:49		Validation Operation completed!!
+2020-11-30/18:53:49		Extracting csv file from table
+2020-11-30/18:53:49		Start of Prediction
+2020-11-30/18:53:49		Entered the get_data method of the Data_Getter class
+2020-11-30/18:53:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:53:49		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:53:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:53:49		Entered the load_model method of the File_Operation class
+2020-11-30/18:53:49		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:53:49		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:53:49		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:53:49		Entered the load_model method of the File_Operation class
+2020-11-30/18:53:49		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:53:49		End of Prediction
+2020-11-30/18:54:12		Start of Validation on files for prediction!!
+2020-11-30/18:54:12		Raw Data Validation Complete!!
+2020-11-30/18:54:12		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/18:54:13		Table creation Completed!!
+2020-11-30/18:54:13		Insertion of Data into Table started!!!!
+2020-11-30/18:54:13		Insertion in Table completed!!!
+2020-11-30/18:54:13		Deleting Good Data Folder!!!
+2020-11-30/18:54:13		Good_Data folder deleted!!!
+2020-11-30/18:54:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/18:54:13		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/18:54:13		Validation Operation completed!!
+2020-11-30/18:54:13		Extracting csv file from table
+2020-11-30/18:54:13		Start of Prediction
+2020-11-30/18:54:13		Entered the get_data method of the Data_Getter class
+2020-11-30/18:54:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/18:54:13		Entered the is_null_present method of the Preprocessor class
+2020-11-30/18:54:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/18:54:13		Entered the load_model method of the File_Operation class
+2020-11-30/18:54:13		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:54:13		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/18:54:13		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/18:54:13		Entered the load_model method of the File_Operation class
+2020-11-30/18:54:13		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/18:54:13		End of Prediction
+2020-11-30/19:05:54		Start of Validation on files for prediction!!
+2020-11-30/19:05:54		Raw Data Validation Complete!!
+2020-11-30/19:05:54		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:05:54		Table creation Completed!!
+2020-11-30/19:05:54		Insertion of Data into Table started!!!!
+2020-11-30/19:05:55		Insertion in Table completed!!!
+2020-11-30/19:05:55		Deleting Good Data Folder!!!
+2020-11-30/19:05:55		Good_Data folder deleted!!!
+2020-11-30/19:05:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:05:55		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:05:55		Validation Operation completed!!
+2020-11-30/19:05:55		Extracting csv file from table
+2020-11-30/19:05:55		Start of Prediction
+2020-11-30/19:05:55		Entered the get_data method of the Data_Getter class
+2020-11-30/19:05:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:05:55		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:05:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:05:55		Entered the load_model method of the File_Operation class
+2020-11-30/19:05:55		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:05:55		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:05:55		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:05:55		Entered the load_model method of the File_Operation class
+2020-11-30/19:05:55		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:05:55		End of Prediction
+2020-11-30/19:07:24		Start of Validation on files for prediction!!
+2020-11-30/19:07:24		Raw Data Validation Complete!!
+2020-11-30/19:07:24		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:07:24		Table creation Completed!!
+2020-11-30/19:07:24		Insertion of Data into Table started!!!!
+2020-11-30/19:07:25		Insertion in Table completed!!!
+2020-11-30/19:07:25		Deleting Good Data Folder!!!
+2020-11-30/19:07:25		Good_Data folder deleted!!!
+2020-11-30/19:07:25		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:07:25		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:07:25		Validation Operation completed!!
+2020-11-30/19:07:25		Extracting csv file from table
+2020-11-30/19:07:25		Start of Prediction
+2020-11-30/19:07:25		Entered the get_data method of the Data_Getter class
+2020-11-30/19:07:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:07:25		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:07:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:07:25		Entered the load_model method of the File_Operation class
+2020-11-30/19:07:25		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:07:25		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:07:25		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:07:25		Entered the load_model method of the File_Operation class
+2020-11-30/19:07:25		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:07:25		End of Prediction
+2020-11-30/19:07:43		Start of Validation on files for prediction!!
+2020-11-30/19:07:43		Raw Data Validation Complete!!
+2020-11-30/19:07:43		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:07:43		Table creation Completed!!
+2020-11-30/19:07:43		Insertion of Data into Table started!!!!
+2020-11-30/19:07:44		Insertion in Table completed!!!
+2020-11-30/19:07:44		Deleting Good Data Folder!!!
+2020-11-30/19:07:44		Good_Data folder deleted!!!
+2020-11-30/19:07:44		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:07:44		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:07:44		Validation Operation completed!!
+2020-11-30/19:07:44		Extracting csv file from table
+2020-11-30/19:07:44		Start of Prediction
+2020-11-30/19:07:44		Entered the get_data method of the Data_Getter class
+2020-11-30/19:07:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:07:44		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:07:44		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:07:44		Entered the load_model method of the File_Operation class
+2020-11-30/19:07:44		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:07:44		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:07:44		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:07:44		Entered the load_model method of the File_Operation class
+2020-11-30/19:07:44		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:07:44		End of Prediction
+2020-11-30/19:10:27		Start of Validation on files for prediction!!
+2020-11-30/19:10:27		Raw Data Validation Complete!!
+2020-11-30/19:10:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:10:27		Table creation Completed!!
+2020-11-30/19:10:27		Insertion of Data into Table started!!!!
+2020-11-30/19:10:28		Insertion in Table completed!!!
+2020-11-30/19:10:28		Deleting Good Data Folder!!!
+2020-11-30/19:10:28		Good_Data folder deleted!!!
+2020-11-30/19:10:28		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:10:28		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:10:28		Validation Operation completed!!
+2020-11-30/19:10:28		Extracting csv file from table
+2020-11-30/19:10:28		Start of Prediction
+2020-11-30/19:10:28		Entered the get_data method of the Data_Getter class
+2020-11-30/19:10:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:10:28		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:10:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:10:28		Entered the load_model method of the File_Operation class
+2020-11-30/19:10:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:10:28		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:10:28		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:10:28		Entered the load_model method of the File_Operation class
+2020-11-30/19:10:28		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:10:28		End of Prediction
+2020-11-30/19:11:20		Start of Validation on files for prediction!!
+2020-11-30/19:11:20		Raw Data Validation Complete!!
+2020-11-30/19:11:20		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:11:20		Table creation Completed!!
+2020-11-30/19:11:20		Insertion of Data into Table started!!!!
+2020-11-30/19:11:21		Insertion in Table completed!!!
+2020-11-30/19:11:21		Deleting Good Data Folder!!!
+2020-11-30/19:11:21		Good_Data folder deleted!!!
+2020-11-30/19:11:21		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:11:21		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:11:21		Validation Operation completed!!
+2020-11-30/19:11:21		Extracting csv file from table
+2020-11-30/19:11:21		Start of Prediction
+2020-11-30/19:11:21		Entered the get_data method of the Data_Getter class
+2020-11-30/19:11:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:11:21		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:11:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:11:21		Entered the load_model method of the File_Operation class
+2020-11-30/19:11:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:11:21		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:11:21		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:11:21		Entered the load_model method of the File_Operation class
+2020-11-30/19:11:21		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:11:21		End of Prediction
+2020-11-30/19:17:18		Start of Validation on files for prediction!!
+2020-11-30/19:17:18		Raw Data Validation Complete!!
+2020-11-30/19:17:18		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:17:18		Table creation Completed!!
+2020-11-30/19:17:18		Insertion of Data into Table started!!!!
+2020-11-30/19:17:19		Insertion in Table completed!!!
+2020-11-30/19:17:19		Deleting Good Data Folder!!!
+2020-11-30/19:17:19		Good_Data folder deleted!!!
+2020-11-30/19:17:19		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:17:19		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:17:19		Validation Operation completed!!
+2020-11-30/19:17:19		Extracting csv file from table
+2020-11-30/19:17:19		Start of Prediction
+2020-11-30/19:17:19		Entered the get_data method of the Data_Getter class
+2020-11-30/19:17:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:17:19		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:17:19		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:17:19		Entered the load_model method of the File_Operation class
+2020-11-30/19:17:19		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:17:19		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:17:19		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:17:19		Entered the load_model method of the File_Operation class
+2020-11-30/19:17:19		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:17:19		End of Prediction
+2020-11-30/19:18:02		Start of Validation on files for prediction!!
+2020-11-30/19:18:02		Raw Data Validation Complete!!
+2020-11-30/19:18:02		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-11-30/19:18:02		Table creation Completed!!
+2020-11-30/19:18:02		Insertion of Data into Table started!!!!
+2020-11-30/19:18:03		Insertion in Table completed!!!
+2020-11-30/19:18:03		Deleting Good Data Folder!!!
+2020-11-30/19:18:03		Good_Data folder deleted!!!
+2020-11-30/19:18:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-11-30/19:18:03		Bad files moved to archive!! Bad folder Deleted!!
+2020-11-30/19:18:03		Validation Operation completed!!
+2020-11-30/19:18:03		Extracting csv file from table
+2020-11-30/19:18:03		Start of Prediction
+2020-11-30/19:18:03		Entered the get_data method of the Data_Getter class
+2020-11-30/19:18:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-11-30/19:18:03		Entered the is_null_present method of the Preprocessor class
+2020-11-30/19:18:03		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-11-30/19:18:03		Entered the load_model method of the File_Operation class
+2020-11-30/19:18:03		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:18:03		Entered the find_correct_model_file method of the File_Operation class
+2020-11-30/19:18:03		Exited the find_correct_model_file method of the Model_Finder class.
+2020-11-30/19:18:03		Entered the load_model method of the File_Operation class
+2020-11-30/19:18:03		Model File LinearRegression2 loaded. Exited the load_model method of the Model_Finder class
+2020-11-30/19:18:03		End of Prediction

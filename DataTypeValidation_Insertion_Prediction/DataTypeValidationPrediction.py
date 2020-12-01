@@ -194,6 +194,7 @@ class dBOperation:
             # csvFile.writerows(results)
 
             self.logger.log(log_file, "File exported successfully!!!")
+            return df
 
         except Exception as e:
             self.logger.log(log_file, "File exporting failed. Error : %s" %e)

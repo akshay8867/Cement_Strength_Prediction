@@ -47,7 +47,8 @@ class pred_validation:
             self.log_writer.log(self.file_object,"Validation Operation completed!!")
             self.log_writer.log(self.file_object,"Extracting csv file from table")
             #export data in table to csvfile
-            self.dBOperation.selectingDatafromtableintocsv('Prediction')
+            df=self.dBOperation.selectingDatafromtableintocsv('Prediction')
+            return df
 
         except Exception as e:
             raise e

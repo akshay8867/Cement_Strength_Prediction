@@ -36,8 +36,9 @@ class train_validation:
             self.log_writer.log(self.file_object, "Bad files moved to archive!! Bad folder Deleted!!")
             self.log_writer.log(self.file_object, "Validation Operation completed!!")
             self.log_writer.log(self.file_object, "Extracting csv file from table")
-            self.dBOperation.selectingDatafromtableintocsv('Training')
+            df=self.dBOperation.selectingDatafromtableintocsv('Training')
             self.file_object.close()
+            return df
         except Exception as e:
             self.log_writer.log(self.file_object, "Conversion to input csv failed")
             self.file_object.close()

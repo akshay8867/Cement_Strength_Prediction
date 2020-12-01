@@ -59,13 +59,15 @@ class prediction:
                 for val in (model.predict(cluster_data.values)):
                     result.append(val)
             result = pandas.DataFrame(result,columns=['Predictions'])
+            json_data = result.to_json(orient='values')
+            print(json_data)
             path="Prediction_Output_File/Predictions.csv"
             result.to_csv("Prediction_Output_File/Predictions.csv",header=True) #appends result to prediction file
             self.log_writer.log(self.file_object,'End of Prediction')
         except Exception as ex:
             self.log_writer.log(self.file_object, 'Error occured while running the prediction!! Error:: %s' % ex)
             raise ex
-        return path
+        return path,json_data,result
 
             # old code
             # i=0
